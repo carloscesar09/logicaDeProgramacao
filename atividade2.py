@@ -27,11 +27,17 @@ def processa_numeros(val1, val2):
 print (val1, val2)
 
 
+
 def main (lista):
- lista = [3, 8,9, 2]
+ entrada = input()
+ lista = entrada.split()
  soma = 0
  for num in lista:
-   soma += num
-   media= soma/2 
-print (media)
+   soma += int(num)
+ media = soma/len(lista)
+ return media
+   
+retorno = main ()
+print(retorno)
+
 
