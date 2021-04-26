@@ -87,3 +87,15 @@ print([2*x for x in range(10)] )
 #inicio
 3print(randint(0,20))
 #fim
+
+                   
+                   #inicio
+lista = ["alo", "Alo", "aLO", "alO"] 
+print (join (upper(lista)))
+#fim
+
+
+#inicio 
+lista = ["alo", "Alo", "aLO", "alO"] 
+print (join (" ", lower(lista)))
+#fim
