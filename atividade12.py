@@ -62,3 +62,14 @@ print (lista randon(lista))
 lista = [ 4, 5, 2, 0, 9 ]
 print(clone_lista)
 #fim 
+
+                   
+                   #inicio
+lista = [ 4, 5, 2, 0, 9 ]
+print (lista[:3])
+# fim
+
+#inicio
+lista = [ 4, 5, 2, 0, 9 ]
+print (lista[:-2])
+#Fim
