@@ -73,3 +73,17 @@ print (lista[:3])
 lista = [ 4, 5, 2, 0, 9 ]
 print (lista[:-2])
 #Fim
+
+                   
+                  #inicio
+print(list(range(10)) ) 
+#fim
+
+
+#inicio
+print([2*x for x in range(10)] )
+#fim
+
+#inicio
+3print(randint(0,20))
+#fim
