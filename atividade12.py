@@ -26,3 +26,34 @@ def soma_lista(list)
 def criar_string(list):
   retourn " ".join(list) 
 # fim
+
+                   #inicio Lista de numeros
+lista = [3,8,9,1,0,2]
+print (lista)
+# fim 
+
+#inicio
+lista_numeros = [3,8,9,1,0,2]
+print (sum(lista))
+#fim
+
+#inicio
+lista = [3,8,9,1,0,2]
+print (sum(lista) / len(lista) )
+# fim
+
+#inicio
+lista = [3,8,9,1,0,2]
+print ( lista.join("|", lista) ) 
+# fim
+
+                   #inicio
+lista.sort = [3,8,9,1,0,2]
+print (lista)
+#fim
+
+#inicio
+
+lista = [3,8,9,1,0,2]
+print (lista randon(lista))
+# fim
