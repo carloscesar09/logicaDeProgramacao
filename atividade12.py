@@ -57,3 +57,8 @@ print (lista)
 lista = [3,8,9,1,0,2]
 print (lista randon(lista))
 # fim
+
+ #inicio
+lista = [ 4, 5, 2, 0, 9 ]
+print(clone_lista)
+#fim 
